@@ -1,6 +1,6 @@
-///Suma cyfr liczby ca³kowitej
+///Suma cyfr liczby caÂ³kowitej
 /// Autor: Jakub Romanowski
-/// Data: 07.01.2020
+/// Data: 07.01.2020r.
 #include <iostream>
 
 using namespace std;
